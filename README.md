@@ -1,5 +1,6 @@
 # MachineLearning
 
+This repo contains my initial learnings, when I started Machine Learning
 **Machine Learning Basics**
 
 **Topics :**
